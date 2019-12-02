@@ -1,0 +1,2 @@
+# JNITest
+First .so
